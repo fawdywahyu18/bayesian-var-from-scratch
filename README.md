@@ -1,2 +1,4 @@
 # bayesian-var-from-scratch
-Comprehensive Bayesian VAR tutorial implementing Woźniak (2016) methodology. Covers data simulation, likelihood functions, Minnesota priors, and posterior inference with clear code and comparisons. The sitation of the paper is Woźniak, T., 2016. Bayesian vector autoregressions. Australian Economic Review, 49(3), pp.365-380.
+This repository provides a comprehensive tutorial implementation of Bayesian Vector Autoregressions following established econometric methodology. The tutorial covers the complete workflow from data simulation and likelihood function implementation to Minnesota prior construction and analytical posterior inference. All code is written for educational clarity with extensive documentation, demonstrating how theoretical concepts translate into practical implementation. The repository includes comprehensive comparisons between OLS and Bayesian estimates, making it ideal for students and researchers learning modern Bayesian econometric methods used in macroeconomic forecasting and policy analysis.
+
+Based on: Woźniak, T. (2016). Bayesian vector autoregressions. Australian Economic Review, 49(3), 365-380.
